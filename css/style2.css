@@ -1,0 +1,197 @@
+@media only screen and (max-width: 1200px) {
+
+
+/* main margin for all section */
+.main_margin {
+    margin: 0px 20px !important;
+}
+.pro_main_margin {
+    margin: 0px 26px !important;
+}
+
+.team_img_height {
+    height: 310px !important;
+}
+
+.contact_heading {
+    font-size: 22px !important;
+}
+
+.team_img {
+    bottom: 198px;
+}
+
+.nav_logo{
+	height: 38px;
+	width: 39px;
+}
+
+.hero_logo {
+    width: 130px;
+    height: 133px;
+}
+.font_size-15 {
+    font-size: 13px !important;
+}
+
+.hero_btn {
+    padding: 14px 30px !important;
+    margin: 10px !important;
+}
+
+.nav_height {
+    height: 70px;
+    padding: 0px 8px;
+}
+
+.navbar a, .navbar a:focus {
+    padding: 0px 10px 0px 23px !important;
+    font-size: 15px !important;
+}
+
+.about_heading1 {
+    font-size: 26px !important;
+}
+
+.font_family_one {
+    font-size: 16px !important;
+}
+
+.main_heading {
+    font-size: 34px !important;
+}
+
+.sub_heading {
+    font-size: 17px !important;
+}
+
+.image_full{
+    width: 100% !important;
+}
+.bg_image {
+    height:135vh;
+}
+.shadow_black {
+    height:135vh;
+}
+
+
+}
+
+@media only screen and (max-width: 991px) {
+.f_size{
+	font-size: 18px !important;
+}
+.h_font {
+    font-size: 28px !important;
+}
+.h_2 {
+    font-size: 13px !important;
+}
+
+.image_full{
+    width: 100% !important;
+}
+.w_480{
+	width: 480px !important;
+	height: 480px !important;
+}
+.main_margin {
+    margin: 0px 26px !important;
+}
+.font_size-46 {
+    font-size: 40px !important;
+}
+.hero_logo {
+    width: 126px;
+    height: 132px;
+}
+.point_heading { 
+    font-size: 20px !important;
+}
+.team_img_height {
+    height: 335px !important;
+}
+.w_45 {
+    width: 90%!important;
+}
+.hero_btn {
+    padding: 12px 26px !important;
+}
+.font_size17 {
+    font-size: 16px !important;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.h_font{
+	font-size:28px !important;
+}
+.h_2{
+	font-size: 9px;
+}
+.bg_image {
+    height:100vh;
+}
+
+.shadow_black {
+    height:100vh;
+}
+.p_img {
+	width: 96% !important;
+}
+.main_margin {
+    margin: 0px 19px!important;
+}
+.hero_f{
+	font-size: 13px !important;
+	width: 80%;
+}
+.w_45 {
+    width: 95%!important;
+}
+.team_img_height {
+    height: 514px !important;
+}
+.team_img {
+    display: none;
+    bottom: 177px;
+}.pro_main_margin {
+    margin: 0px 23px !important;
+}.yt_heading {
+    font-size: 33px !important;
+}.bg_image {
+    height:125vh;
+}
+.shadow_black {
+    height:125vh;
+}
+
+}
+
+@media only screen and (max-width: 575px) {
+.h_font {
+    font-size: 28px !important;
+}
+.h_2{
+	font-size: 6px;
+}
+.w_70p{
+	width:95% !important;
+}
+.main_margin {
+    margin: 0px 0px!important;
+	background: red;
+}
+.team_img_height {
+    height: 314px !important;
+}
+.team_heading {
+    font-size: 20px !important;
+}.bg_image {
+    height:135vh;
+}
+.shadow_black {
+    height:135vh;
+}
+}
